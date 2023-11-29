@@ -1,0 +1,24 @@
+{
+  "name": "TMailBox",
+  "version": "1.0.0",
+  "summary": "TMailBox is an iOS framework for working with the e-mail protocols IMAP and SMTP.",
+  "description": "TMailBox is an iOS library designed to ease the pain of dealing with e-mail protocols. TMailBox makes the process of sending e-mail easy by hiding the nasty details like MIME composition from you. Instead, there is a single method required to send a message. Checking e-mail on an IMAP server is a more complex beast, but MailCore makes the job much simpler by presenting everything as a set of objects like Messages, Folders and Accounts.",
+  "homepage": "https://github.com/fanta1ty/TMailBox",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "thinhnguyen12389": "thinhnguyen12389@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/fanta1ty/TMailBox.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "Sources/TMailBox/**/*.{swift}",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}

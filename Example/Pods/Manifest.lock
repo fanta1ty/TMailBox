@@ -1,0 +1,16 @@
+PODS:
+  - TMailBox (1.0.0)
+
+DEPENDENCIES:
+  - TMailBox (from `../`)
+
+EXTERNAL SOURCES:
+  TMailBox:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TMailBox: d175185f7143f71166fddea23102352103cc2387
+
+PODFILE CHECKSUM: 374b3a5a42acca14b4b1a4851ac010f330901a08
+
+COCOAPODS: 1.14.3
